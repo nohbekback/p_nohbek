@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "admin",
+        "lastname": "Cuevas",
+        "username": "admin",
+        "description": "rol",
+        "image": "avatar.jpg",
+        "email": "admin@example.com", 
+        "pass": "Password123"        
+    },
+    {
+        "id": 2,
+        "name": "Yazmin",
+        "lastname": "Garcia",
+        "username": "YGarcia",
+        "description": "rol",
+        "image": "avatar.jpg",
+        "email": "yazmin@nohbek.com", 
+        "pass": "1234"        
+    },
+    {
+        "id": 3,
+        "name": "Roxana",
+        "lastname": "Romaniello",
+        "username": "romaro",
+        "description": "rol",
+        "image": "avatar.jpg",
+        "email": "romaniello@nohbek.com", 
+        "pass": "1234"        
+    },
+    {
+        "id": 4,
+        "name": "Mariana",
+        "lastname": "Blanez",
+        "username": "merida",
+        "description": "rol",
+        "image": "avatar.jpg",
+        "email": "merida@nohbek.com", 
+        "pass": "1234"        
+    },
+    {
+        "id": 5,
+        "name": "Luisa",
+        "lastname": "Gaviria",
+        "username": "GLuisa",
+        "description": "rol",
+        "image": "avatar.jpg",
+        "email": "luisa@nohbek.com", 
+        "pass": "1234"        
+    }
+]

@@ -16,7 +16,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+#from p_nohbek import conexion_mysql
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    #path('p_nohbek/',conexion_mysql.urls)
 ]
